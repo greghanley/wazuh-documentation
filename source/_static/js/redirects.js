@@ -45,6 +45,13 @@ newUrls['4.0'] = [
     '/user-manual/api/rbac/index.html',
     '/user-manual/api/rbac/reference.html',
     '/user-manual/api/equivalence.html',
+    '/user-manual/reference/tools/wazuh-logtest.html',
+    '/user-manual/reference/ossec-conf/rule_test.html',
+    '/development/wazuh-logtest.html',
+    '/user-manual/capabilities/wazuh-logtest/index.html',
+    '/user-manual/capabilities/wazuh-logtest/how-it-works.html',
+    '/user-manual/capabilities/wazuh-logtest/logtest-configuration.html',
+    '/user-manual/capabilities/wazuh-logtest/logtest-faq.html',
 ];
 
 /* *** RELEASE 3.13 ****/

@@ -66,6 +66,8 @@ Wazuh can be installed in two ways: as a manager by using the "server/manager" i
 +---------------------------------------------------------------------+------------------------+
 | :doc:`rootcheck <rootcheck>`                                        | manager, agent         |
 +---------------------------------------------------------------------+------------------------+
+| :doc:`rule_test <rule_test>`                                        | manager                |
++---------------------------------------------------------------------+------------------------+
 | :doc:`ruleset <ruleset>`                                            | manager                |
 +---------------------------------------------------------------------+------------------------+
 | :doc:`sca <sca>`                                                    | manager, agent         |
@@ -126,6 +128,7 @@ All of the above sections must be located within the top-level ``<ossec_config>`
    reports
    rootcheck
    sca
+   rule_test
    ruleset
    socket
    syscheck
